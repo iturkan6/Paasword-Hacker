@@ -60,7 +60,7 @@ def get_password():
 
 
 if __name__ == '__main__':
-    path = "C:\\Users\\iturk\\PycharmProjects\\Password Hacker\\Password Hacker\\task\\logins.txt"
+    path = "C:\\Users\\iturk\\Desktop\\Paasword-Hacker\\Password Hacker\\logins.txt"
     host = argv[1]
     port = int(argv[2])
     print(connect())
